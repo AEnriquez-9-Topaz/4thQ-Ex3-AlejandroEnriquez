@@ -1,0 +1,62 @@
+ {
+		margin: 0px;
+		padding: 0px;
+
+	}
+					
+
+html, body {
+
+		  margin: 0;
+		  height: 100%;
+		  text-align: center;
+		  background-image: url(https://th.bing.com/th/id/OIP.YjRL8tvRbhyY6f0L7kznlwHaEo?w=2560&h=1600&rs=1&pid=ImgDetMain);
+		  background-size: cover;
+		  height: 100%;
+		  background-repeat: repeat;
+
+
+
+		}
+.Box {
+	background-color: rgb(0, 48, 73, 0.8);
+	margin: 50px;
+	border-radius: 10px;
+	font-family: Noto;
+	padding: 20px;
+	color: ghostwhite;
+}
+
+.lato {
+	font-family: Lato;
+}
+
+.left {
+	text-align: left;
+
+}
+
+.cen {
+	text-align: center;
+	font-family: Charm;
+}
+
+}
+
+h1 {
+	font-family: Sour Gummy;
+}
+
+
+
+
+
+a:link {
+	color: ghostwhite;
+	text-decoration: none;
+}
+
+a:visited {
+	color: ghostwhite;
+	text-decoration: none;
+}
